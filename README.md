@@ -72,7 +72,7 @@ Suggestions and feedback are always welcome!
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Ruhan Malek**
 
 - GitHub: https://github.com/malekruhan97-sketch/
 - LinkedIn: https://www.linkedin.com/in/
